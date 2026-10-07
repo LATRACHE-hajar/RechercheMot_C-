@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1791315452 source:c:\users\u\onedrive\bureau\myprojectsgtk3\algorithmiquederecherchemotdansdisque\main.cpp
+	<iostream>
+	<string>
+	<chrono>
+	<vector>
+	<fstream>
+
